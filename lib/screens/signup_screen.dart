@@ -163,7 +163,7 @@ class _SignupScreenState extends State<SignupScreen> {
               Row(mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Container(
-                  child: Text('Agree Our Privacy Policy and Terms & Condition \n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBy Clicking SIGN UP',style: TextStyle(fontSize: 10,),),
+                  child: Text('Agree Our Privacy Policy \n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBy Clicking SIGN UP',style: TextStyle(fontSize: 10,),),
                 ),
               ],
               ),
